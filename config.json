@@ -2,5 +2,7 @@
   "serverHost": "142.132.202.182",
   "serverPort": 11557,
   "botUsername": "PlayRN",
-  "botChunk": 1
+  "botChunk": 1,
+  "registerCommand": "/register playrn333 playrn333",
+  "loginCommand": "/login playrn333"
 }
